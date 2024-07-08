@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/ActionButton"
+    app:popupTheme="@style/ActionButton">
+
+    <item
+        android:id="@+id/sunImg"
+        android:title="sun"
+        android:icon="@drawable/ic_baseline_wb_sunny_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_darkSwitch"
+        android:title="Switch"
+        app:actionLayout="@layout/switch_item"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/moonImg"
+        android:title="moon"
+        android:icon="@drawable/ic_baseline_brightness_2_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_tutorialBtn"
+        android:title="tutorial"
+        android:icon="@drawable/baseline_question_mark_36"
+        app:showAsAction="always"/>
+
+</menu>

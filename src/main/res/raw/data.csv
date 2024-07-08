@@ -1,0 +1,126 @@
+﻿mango,芒果,food
+apple,苹果,food
+strawberry,草莓,food
+lettuce,莴苣,food
+cabbage,卷心菜,food
+carrot,萝卜,food
+fish,鱼,food
+chicken,鸡,food
+beef,牛肉,food
+milk,牛奶,food
+cheese,奶酪,food
+tofu,豆腐,food
+spinach,菠菜,food
+yam,薯,food
+potato,土豆,food
+pea,豌豆,food
+broccoli,西兰花,food
+blueberry,蓝莓,food
+pepper,胡椒,food
+egg,蛋,food
+bean,豆子,food
+bread,面包,food
+noodles,面条,food
+tomato,番茄,food
+peanut,花生,food
+lemon,柠檬,food
+spaghetti,意大利细面条,food
+sushi,寿司,food
+dog,狗,animal
+cat,猫,animal
+sheep,羊,animal
+frog,青蛙,animal
+pig,猪,animal
+fish,鱼,animal
+bird,鸟,animal
+bear,熊,animal
+coyote,狼,animal
+octopus,章鱼,animal
+elephant,象,animal
+lion,狮子,animal
+tiger,虎,animal
+monkey,猴子,animal
+panda,熊猫,animal
+horse,马,animal
+cow,牛,animal
+rabbit,兔子,animal
+deer,鹿,animal
+fox,狐狸,animal
+giraffe,长颈鹿,animal
+kangaroo,袋鼠,animal
+crocodile,鳄鱼,animal
+snake,蛇,animal
+turtle,龟,animal
+seal,海豹,animal
+red panda,小熊猫,animal
+Walking,步行,transportation
+Bicycling,骑自行车,transportation
+Skateboarding,滑板,transportation
+Rollerblading,溜冰鞋,transportation
+Scooter,滑板车,transportation
+Motorcycle,摩托车,transportation
+Car,汽车,transportation
+Bus,公共汽车,transportation
+Train,火车,transportation
+Subway/Metro,地铁,transportation
+Tram,有轨电车,transportation
+Cablecar,缆车,transportation
+Ferry,渡船,transportation
+Airplane,飞机,transportation
+Helicopter,直升机,transportation
+Taxi,出租车,transportation
+Ride-sharing,租车,transportation
+Grocery store,杂货店,store
+Convenience store,便利店,store
+Department store,百货商店,store
+Clothing store,服装店,store
+Shoe store,鞋店,store
+Jewelry store,珠宝店,store
+Electronics store,电子产品店,store
+Furniture store,家具店,store
+Home goods store,家居用品店,store
+Sporting goods store,运动用品店,store
+Toy store,玩具店,store
+Bookstore,书店,store
+Music store,音乐店,store
+Art supply store,美术用品店,store
+Craft store,手工艺店,store
+Beauty supply store,美容用品店,store
+Pharmacy/Drugstore,药店,store
+Garden center,园艺中心,store
+Pet store,宠物店,store
+Antique store,古董店,store
+T-shirt,T恤,clothing
+Blouse,女衬衫,clothing
+Tank top,背心,clothing
+Sweater,毛衣,clothing
+Hoodie,运动衫,clothing
+Jacket,夹克,clothing
+Coat,外套,clothing
+Dress,连衣裙,clothing
+Skirt,裙子,clothing
+Pants,裤子,clothing
+Jeans,牛仔裤,clothing
+Shorts,短裤,clothing
+Leggings,紧身裤,clothing
+Jumpsuit,连身裤,clothing
+Swimwear,泳衣,clothing
+Underwear,内衣,clothing
+Socks,袜子,clothing
+Scarf,围巾,clothing
+Hat,帽子,clothing
+Gloves,手套,clothing
+Shoes,鞋子,clothing
+Boots,靴子,clothing
+Sandals,凉鞋,clothing
+Polo shirt,短袖衫,clothing
+Button-up shirt,纽扣衬衫,clothing
+Blazer,西装外套,clothing
+Suit,西装,clothing
+Tie,领带,clothing
+Dress shirt,衬衫,clothing
+Swimsuit,泳装,clothing
+Pajamas,睡衣,clothing
+Robe,浴袍,clothing
+Sweatpants,运动裤,clothing
+Sweatshirt,运动衫,clothing

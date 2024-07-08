@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Sudoku Vocabulary</string>
+
+    <string name="play_button_text">Play!</string>
+    <string name="back_button_text">Back</string>
+    <string name="title_text">%1$s%2$s</string>
+    <string name="main_menu_word_bank_button_text">Word Bank</string>
+    <string name="main_menu_options_button_text">Options</string>
+
+    <string name="select_mode_text">Select Mode</string>
+    <string name="select_mode_normal_button_text">Normal</string>
+    <string name="select_mode_listen_button_text">Listening</string>
+
+    <string name="sudoku_description">Sudoku is traditionally played on a 9x9 grid, separated into 3x3 squares. Each column, row, and 3x3 square needs to filled in using numbers 1-9, with no repeating numbers.</string>
+    <string name="sudoku_vocab_description">Sudoku Vocabulary is also played on a 9x9 grid, with the same set of rules as traditional Sudoku. However, the numbers 1-9 are replaced with nine pairs of words. Every pair of words consists of one word in English, and its corresponding definition in Chinese. When the user clicks on a cell, a pop-up is displayed with one English word alongside multiple options of Chinese words. The correct option is the definition of the English word in Chinese. When the user clicks the correct option, the cell well become filled. The game finishes when every cell is filled.
+</string>
+
+    <string name="dialog_override_save">A save has been found! Starting a new game will erase the save. \n\nDo you wish to proceed?</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="dialog_exit_game">Are you sure you want to leave? Progress will be saved</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="game_popup_question_text">Match the correct word:</string>
+    <string name="game_correct_toast_text">Correct!</string>
+    <string name="game_incorrect_toast_text">Incorrect! Please Try Again</string>
+
+    <string name="activity_main_word_bank_text">Word Lists</string>
+    <string name="activity_main_word_bank_existing_words">Existing Word Lists:</string>
+    <string name="activity_main_word_bank_create_new_list">Create New Word List</string>
+
+    <string name="activity_word_list_name_prompt">What is the name of the new list?</string>
+    <string name="activity_word_list_name_button">Confirm</string>
+    <string name="activity_word_list_name_hint">List Name</string>
+    <string name="show_list_button_text">Display List</string>
+
+    <string name="activity_add_word_new_word_list">New Word List:</string>
+    <string name="activity_add_word_choose_category"> Choose from following categories: </string>
+
+    <string name="activity_word_category_select_animals">Select words to add to list:</string>
+
+    <string name="game_complete_text">Puzzle Complete!</string>
+    <string name="game_complete_home_button_text">Home</string>
+    <string name="game_complete_restart_button_text">Play Again</string>
+
+    <string name="theme_value_key">"com.example.sudokuvocabulary.theme</string>
+    <string name="new_table_name_key">com.example.android.sudokuvocabulary.listName</string>
+    <string name="words_key">com.example.android.sudokuvocabulary.words</string>
+    <string name="translations_key">com.example.android.sudokuvocabulary.translations</string>
+    <string name="word_prompt_key">com.example.android.sudokuvocabulary.prompt</string>
+    <string name="word_grid_key">com.example.android.sudokuvocabulary.wordgrid</string>
+    <string name="category_key">com.example.android.sudokuvocabulary.category</string>
+    <string name="cell_row_key">com.example.sudokuvocabulary.row</string>
+    <string name="cell_column_key">com.example.sudokuvocabulary.column</string>
+    <string name="cell_value_key">com.example.sudokuvocabulary.value</string>
+    <string name="time_key">com.example.sudokuvocabulary.time</string>
+    <string name="size_key">com.example.sudokuvocabulary.size</string>
+    <string name="sub_width_key">com.example.sudokuvocabulary.subwidth</string>
+    <string name="sub_height_key">com.example.sudokuvocabulary.subheight</string>
+    <string name="mode_key">com.example.sudokuvocabulary.mode</string>
+    <string name="current_grid_key">com.example.sudokuvocabulary.gridAsArray</string>
+    <string name="solution_grid_key">com.example.sudokuvocabulary.solution</string>
+    <string name="cells_empty_key">com.example.sudokuvocabulary.cellsEmpty</string>
+    <string name="popup_visibility_key">com.example.sudokuvocabulary.popupVisible</string>
+
+    <string name="size_4x4">4x4</string>
+    <string name="size_6x6">6x6</string>
+    <string name="size_9x9">9x9</string>
+    <string name="size_12x12">12x12</string>
+    <string name="display_list_label">List of words</string>
+
+    <string name="save_game_file">save.ser</string>
+    <string name="save_game_key">save</string>
+</resources>

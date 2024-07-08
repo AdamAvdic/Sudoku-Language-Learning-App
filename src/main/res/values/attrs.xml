@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <declare-styleable name="SudokuGrid">
+        <attr name="gridColor" format="color" />
+        <attr name="cellItemFillColour" format="color" />
+    </declare-styleable>
+    <declare-styleable name="QuestionCard">
+    </declare-styleable>
+</resources>
