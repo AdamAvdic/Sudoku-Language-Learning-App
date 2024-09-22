@@ -9,6 +9,7 @@ This project was done in CMPT276 with a scrum team to mock a software engineerin
 ![Screenshot 2023-03-30 171350](https://github.com/user-attachments/assets/aeb0a270-401e-45be-b6e3-c56f17fcb137)
 
 Some skills learned:
+
 • Created a hash table using Java that maps Chinese words to English words that allows the program 
   to see if the user-input is correct.
   
