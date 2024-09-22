@@ -11,4 +11,5 @@ This project was done in CMPT276 with a scrum team to mock a software engineerin
 Some skills learned:
 • Created a hash table using Java that maps Chinese words to English words that allows the program 
   to see if the user-input is correct.
+  
 • Implemented a word bank and main menu user interface using XML files in android studio.
